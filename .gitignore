@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Dependency folders
+/node_modules
+/vendor
+
+# XAMPP specific (if any temp files)
+xampp/
+tmp/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Cache files
+*.cache
+
+# Uploaded files (optional - if your project has uploads folder)
+uploads/
+
+# Database dumps (optional if you don’t want multiple backups)
+*.sql
+
+# But IMPORTANT:
+# Keep your main database file if needed
+# Example: !aca_calendar.sql
